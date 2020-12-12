@@ -1,5 +1,5 @@
 {
-  "name": "starter-discord.js-bot",
+  "name": "simple-discord-bot-template",
   "version": "1.0.0",
   "description": "A Simple starter discord.js bot template for making Discord bots.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudhanPlayz/Starter-Discord.js-Bot.git"
+    "url": "git+https://github.com/Freshy717/simple-discord-bot-template.git"
   },
   "keywords": [
     "discord.js",
@@ -18,12 +18,12 @@
     "discordjs",
     "bot"
   ],
-  "author": "SudhanPlayz",
+  "author": "Freshy717",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SudhanPlayz/Starter-Discord.js-Bot/issues"
+    "url": "https://github.com/Freshy717/simple-discord-bot-template/issues"
   },
-  "homepage": "https://github.com/SudhanPlayz/Starter-Discord.js-Bot#readme",
+  "homepage": "https://github.com/Freshy717/simple-discord-bot-template",
   "dependencies": {
     "dotenv": "^8.2.0"
   }
