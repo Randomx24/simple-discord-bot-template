@@ -24,3 +24,4 @@ for (const file of commandFiles) {
 }
 
 client.login(process.env.DISCORD_TOKEN);
+NzkzMzM5ODk4MjY2MjU1Mzkw.X-q1Ww.yffQNJVcm96SWWNbvomEjknAtdU
