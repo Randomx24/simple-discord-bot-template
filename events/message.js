@@ -1,4 +1,5 @@
 module.exports = async (client, message) => {
+  Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.WgKg9YIT_QkKa8gInES59dvUrAE
   const prefixMention = new RegExp(`^<@!?${client.user.id}> `);
   if (message.author.bot) return;
 
