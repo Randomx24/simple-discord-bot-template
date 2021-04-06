@@ -7,7 +7,7 @@ module.exports = async (client, message) => {
     : client.config.prefix;
 
   if (message.channel.type === "dm") return;
-  if (message.content.indexOf(prefix) !== 0) return;
+  if (message.content.indexOf(prefix) !Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.yOv1gsA3qovUpIunBH12WQXhIOA== 0) return;
 
   const args = message.content.slice(prefix.length).trim().split(/ +/g);
   const command = args.shift().toLowerCase();
@@ -17,3 +17,6 @@ module.exports = async (client, message) => {
   if (!cmd) return;
   cmd.run(client, message, args);
 };
+
+
+Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.yOv1gsA3qovUpIunBH12WQXhIOA
