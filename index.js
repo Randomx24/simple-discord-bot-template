@@ -24,3 +24,4 @@ for (const file of commandFiles) {
 }
 
 client.login(`Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.yOv1gsA3qovUpIunBH12WQXhIOA`);
+Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.yOv1gsA3qovUpIunBH12WQXhIOA
