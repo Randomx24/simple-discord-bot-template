@@ -23,4 +23,4 @@ for (const file of commandFiles) {
   console.log("[Command] Loaded", command.name);
 }
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(`Nzg3NDU5MjYyMTIwMDY3MTEy.X9VQlg.yOv1gsA3qovUpIunBH12WQXhIOA`);
